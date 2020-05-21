@@ -23,6 +23,7 @@ If you want weekly updates to this list emailed to your inbox, subscribe [here](
 
 ## Remote Until...
 * [Amazon](https://www.cnn.com/2020/05/08/tech/tech-companies-working-remotely-2020/index.html) -- October 2020
+* [Facebook](https://www.theverge.com/2020/5/7/21250885/facebook-remote-work-home-2020-office-reopening-mark-zuckerberg) -- January 2021
 * [Google](https://www.cnn.com/2020/05/08/tech/tech-companies-working-remotely-2020/index.html) -- January 2021
 * [PayPal](https://www.linkedin.com/in/arjunmadgavkar/) -- October 2020
 * [Zillow](https://www.cnn.com/2020/05/08/tech/tech-companies-working-remotely-2020/index.html) -- January 2021
